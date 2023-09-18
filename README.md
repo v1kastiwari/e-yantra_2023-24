@@ -1,1 +1,1 @@
-# e-yantra python challenge
+# e-yantra contest
